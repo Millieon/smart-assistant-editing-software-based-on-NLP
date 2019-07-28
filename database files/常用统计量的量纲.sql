@@ -1,0 +1,9 @@
+INSERT INTO `常用统计量的量纲` VALUES ('几何平均值', 'L');
+INSERT INTO `常用统计量的量纲` VALUES ('均方根误差', 'L');
+INSERT INTO `常用统计量的量纲` VALUES ('均方误差', 'L2');
+INSERT INTO `常用统计量的量纲` VALUES ('平均误差', 'L');
+INSERT INTO `常用统计量的量纲` VALUES ('方差', 'L2');
+INSERT INTO `常用统计量的量纲` VALUES ('标准差', 'L');
+INSERT INTO `常用统计量的量纲` VALUES ('相对误差', '%');
+INSERT INTO `常用统计量的量纲` VALUES ('算术平均值', 'L');
+INSERT INTO `常用统计量的量纲` VALUES ('绝对误差', 'L');

@@ -1,0 +1,9 @@
+INSERT INTO `文献类型与标志代码` VALUES ('会议录', 'C');
+INSERT INTO `文献类型与标志代码` VALUES ('学位论文', 'D');
+INSERT INTO `文献类型与标志代码` VALUES ('汇编', 'G');
+INSERT INTO `文献类型与标志代码` VALUES ('期刊', 'J');
+INSERT INTO `文献类型与标志代码` VALUES ('普通图书', 'M');
+INSERT INTO `文献类型与标志代码` VALUES ('报纸', 'N');
+INSERT INTO `文献类型与标志代码` VALUES ('专利', 'P');
+INSERT INTO `文献类型与标志代码` VALUES ('报告', 'R');
+INSERT INTO `文献类型与标志代码` VALUES ('标准', 'S');
