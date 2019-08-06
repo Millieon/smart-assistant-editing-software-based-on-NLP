@@ -1,1 +1,10 @@
-https://github.com/Millieon/ltp
+NLP全系列处理框架
+哈工大: https://github.com/Millieon/ltp   语言：C++
+Stanford: https://nlp.stanford.edu/software/index.html  语言：Java
+Fudan:  https://code.google.com/p/fudannlp/     语言：Java
+HanLP:  https://github.com/hankcs/HanLP     语言：Java
+
+NLP分词框架
+里程碑式中文分词系统: http://www.threedweb.cn/forum-2-1.html    语言：C++
+中等规模中文分词系统: https://github.com/NLPchina/ansj_seg       语言：Java
+小规模中文分词系统:  https://github.com/fxsjy/jieba              语言:Python
